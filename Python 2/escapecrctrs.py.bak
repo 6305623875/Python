@@ -1,0 +1,2 @@
+s="anil \n software"
+print(s)

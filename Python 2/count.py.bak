@@ -1,0 +1,19 @@
+s="abacbacbacbacb"
+print(s.count('a'))
+print(s.count('b'))
+print(s.count('c'))
+print(s.count('cb'))
+print(s.count('a',2,7))
+
+a="learning python is very difficult"
+a1=a.replace("difficult","easy")
+print(a1)
+print(a.upper())
+print(a.lower())
+print(a.swapcase())
+print(a.title())
+print(a.capitalize())
+print(a.startswith('learning')
+print(a.startswith('python')
+print(a.endswith('learning')
+print(a.endswith('difficult')

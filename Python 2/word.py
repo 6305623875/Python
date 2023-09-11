@@ -1,0 +1,5 @@
+print("hello world")
+print('this is the single quote')
+print("this is the double quote")
+print("this is the way to print a word")
+print('he called a brain')
